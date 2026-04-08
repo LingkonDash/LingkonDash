@@ -47,7 +47,7 @@ I'm a dedicated **MERN Developer** with a strong focus on **frontend engineering
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
+<div align="center" style="padding: 400px 0;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" />
   </a>
@@ -60,22 +60,17 @@ I'm a dedicated **MERN Developer** with a strong focus on **frontend engineering
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
   </a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="45" height="45" />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" />
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45" />
   </a>
 </div>
 
-**Frontend:** HTML5 • CSS3 • JavaScript • React • Tailwind CSS  
-**Backend & Database:** Node.js • Express • MongoDB  
 
 ---
 
@@ -85,13 +80,6 @@ I'm a dedicated **MERN Developer** with a strong focus on **frontend engineering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingkondash&theme=radical&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingkondash&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lingkondash&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
