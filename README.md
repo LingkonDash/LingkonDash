@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lingkondash/lingkondash/main/banner.png" alt="Lingkon Dash Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+  <img src="https://i.ibb.co.com/LDrzvJtd/github-header-banner.png" alt="Lingkon Dash Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
   <!-- 👆 Replace the URL above with your own custom banner image (recommended size: 1200x300) once you upload it to your repo -->
   
-  <h1>Hi 👋, I'm Lingkon Dash</h1>
-  <h3>A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Crafting seamless digital experiences with modern web technologies</h3>
+  <h3>A passionate MERN Developer from Bangladesh 🇧🇩 | Crafting seamless digital experiences with modern web technologies</h3>
 
   <p>
     <a href="https://github.com/lingkondash">
@@ -19,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a dedicated **Full-Stack Developer** with a strong focus on **frontend engineering**. I love turning ideas into beautiful, responsive, and high-performance web applications. Currently sharpening my skills in **React** and **Next.js** to build scalable, user-centric solutions.
+I'm a dedicated **MERN Developer** with a strong focus on **frontend engineering**. I love turning ideas into beautiful, responsive, and high-performance web applications. Currently sharpening my skills in **React** and **Next.js** to build scalable, user-centric solutions.
 
-- 🌱 **Currently learning:** React, Next.js, and advanced TypeScript patterns
+- 🌱 **Currently learning:** React, Next.js, and advanced JavaScript patterns
 - 🔭 **Open to:** Freelance projects, full-time roles, and exciting collaborations
 - 📍 **Based in:** Dhaka, Bangladesh
 
@@ -48,7 +47,7 @@ I'm a dedicated **Full-Stack Developer** with a strong focus on **frontend engin
 
 ### 🛠️ Languages and Tools
 
-<div align="left">
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" />
   </a>
