@@ -95,22 +95,22 @@ const lingkon = {
 <div align="center">
 
 <!-- Streak — uses working alternative host -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lingkondash&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=6b7280" height="170" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lingkondash&theme=holi&hide_border=true&background=0d1117&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=6b7280" height="170" alt="GitHub Streak"/>
 &nbsp;
 <!-- Stats — profile-summary-cards is a stable alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingkondash&theme=transparent" height="170" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingkondash&theme=holi" height="170" alt="GitHub Stats"/>
 
 <br/><br/>
 
 <!-- Top languages — profile-summary-cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lingkondash&theme=transparent" height="170" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lingkondash&theme=holi" height="170" alt="Repos per Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lingkondash&theme=transparent" height="170" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lingkondash&theme=holi" height="170" alt="Most Commit Language"/>
 
 <br/><br/>
 
 <!-- Full contribution timeline -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingkondash&theme=transparent" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingkondash&theme=holi" width="100%" alt="Profile Details"/>
 
 </div>
 
