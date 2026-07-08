@@ -3,14 +3,15 @@
 <!-- Animated SVG banner with particle/wave effect using capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0ea5e9,50:6366f1,100:06b6d4&text=Lingkon%20Dash&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Web%20Developer%20%F0%9F%87%A7%F0%9F%87%A9&descSize=22&descAlignY=65&animation=fadeIn&stroke=0ea5e9&strokeWidth=2" width="100%" alt="Lingkon Dash"/>
 
-<br/>
+---
 
-<!-- Animated typewriter — cycles through roles/values -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=I+craft+things+people+actually+feel.;Next.js+%2B+Express.js+%2B+MongoDB+stack.;Animations+that+make+UI+breathe.;MERN+developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Open+to+work+%E2%80%94+let%27s+build+something." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=%E2%9C%A6+Lingkon+Dash+%E2%9C%A6;%E2%9C%A6+Full+Stack+Developer+%E2%9C%A6;%E2%9C%A6+Problem+Solver+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%E2%9C%A6" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+---
+
+<br/>
 
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=lingkondash&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views"/>
