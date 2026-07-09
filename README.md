@@ -57,6 +57,16 @@ const lingkon = {
 
 ---
 
+## 🚀 Current Activities
+
+- 🔭 I'm currently building projects with the **Next.js App Router** and sharpening my **REST API design** patterns
+- 🌱 I'm currently learning **authentication & authorization systems** (JWT, Better Auth, role-based access control)
+- 👯 I'm looking to collaborate on **open-source frontend projects**
+- 💼 I'm open to **Junior / Mid Full-Stack or Frontend Developer** roles, as well as freelance work
+- 💬 Ask me about **React, Next.js, Tailwind CSS, or Express.js**
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
