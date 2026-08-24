@@ -13,11 +13,6 @@
 
 <br/>
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=lingkondash&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
 <!-- Social links -->
 <a href="https://www.linkedin.com/in/lingkon-dash/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
